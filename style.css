@@ -1,0 +1,21 @@
+body{
+    background-color:rgba(29, 158, 201, 0.329);
+    font-size: 20px;
+    text-align:center;
+}
+p{
+    background-color: whitesmoke;
+    font-family:monospace;
+}
+ul{
+    background-color: whitesmoke;
+}
+h2{
+    font-family: monospace;
+}
+ul{
+    font-family: monospace;  
+}
+#subtitulo{
+    background-color: whitesmoke;
+}
