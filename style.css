@@ -1,43 +1,116 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
-
 
 body{
-    background-color:	#7FFFD4;
+    color: #3e3f41;
+    background-color:white;
     font-size: 20px;
     text-align:center;
+    overflow: auto;
+    font-family: 'Poppins', sans-serif;   
 }
-p{
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: #525252;
+.head{
+    background-color: #282A35;
+    color: #282A35;
+}
+.header{
+    float: left;
+    padding-right: 0px;
+    padding-bottom: 85px;
+    padding-left: 200px;
+    font-size: 10px;
+    border: ;
+    
 }
 h2{
     line: height 10px;px;
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color:#036b52
-}
-ul{
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    ;  
-}
-#subtitulo{
-    ;
-}
-.picture{
-    border-radius: 20%;
+    font-family:'Poppins', sans-serif;;
+    color:#3e3f41;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: white;
 }
 .button{
-    color:white;
-    background-color:#036b52;
+    color:#3e3f41;
     padding: 10px 20px;
     border-radius: 10px;
     text-decoration: none;
-    margin: 20px
+    margin: 20px;
+    border-style: outset;
+    margin-top: 300px;
 }
 .titulo{
+    color: white;
     line-height: 5px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-h3{
     text-decoration: none;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.picture{
+    border-radius: 20%;
+    right:15.35cm;
+    top: 68px;
+    height: 500px;
+    width: auto;
+    border: ;
+    background-color: ;
+}
+.introduction{
+    font-family:'Poppins', sans-serif;;
+    color: #3e3f41;
+    background-color:;
+    padding-right: 100px;
+    padding-top: 100px;
+    margin-left: 500px;
+    height: 300px;
+    border: 
+   
+}
+.book{
+    width: 80px;
+    float: right;
+    margin-right: 400px;
+}
+.education{
+    margin-right: 500px;
+    margin-top: 90px;
+    
+}
+#educação {
+    padding-right: 150px;
+    padding-left: 120px;
+}
+.skills{
+    clear: both;
+    
+}
+.education_content{
+    font-family:'Poppins', sans-serif;;
+    color: #3e3f41;
+    
+    
+}
+.softskills{
+    font-family:'Poppins', sans-serif;;
+    color: #3e3f41;
+    clear: both;
+    b
+    margin-right: 600px;
+    float: left;
+    margin-left: 250px;
+    display: inline;
+}
+.hardskills{
+    float:right;
+    margin-right: 400px;
+}
+.education_plus_skills{
+    
+}
+.contact{
+    clear: both;
+}
+.footer{
+    clear: both;
+}
+.namecontact{
+    ine: height 10px;px;
+    font-family:'Poppins', sans-serif;;
+    color:#3e3f41;
+    clear: both;
 }
